@@ -1,0 +1,4 @@
+[INFO] [2018-09-06 17:25:38] com.jeff.LogTest.testLog(18) | test info
+[INFO] [2018-09-06 17:25:56] com.jeff.LogTest.testLog(18) | test infoeee
+[INFO] [2018-09-06 17:46:59] com.jeff.LogTest.testLog(18) | test infoeee
+[WARN] [2018-09-06 17:46:59] com.jeff.LogTest.testLog(19) | warning logTest
